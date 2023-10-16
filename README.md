@@ -3,13 +3,3 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=FTL1ght&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
   </tr>
 </table>
-
-<p>
-  <a href="https://github.com/HuiDBK/py-tools">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTL1ght&repo=py-tools&theme=vue-light" />
-  </a>
-   <a href="https://github.com/HuiDBK/WordSprite">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTL1ght&repo=WordSprite&theme=vue-light" />
-  </a>
-</p>
-
